@@ -16,6 +16,7 @@ import java.util.Arrays;
 /**
  * Created by jt, Spring Framework Guru.
  */
+
 @Component
 @RequiredArgsConstructor
 public class BootstrapData implements CommandLineRunner {
